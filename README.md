@@ -4,7 +4,7 @@
 
 **Bối cảnh:**
 
-Trong thị trường kinh doanh cạnh tranh ngày nay, việc thấu hiểu hành vi khách hàng và xu hướng bán hàng là rất quan trọng để đưa ra các quyết định chiến lược hiệu quả. Dự án này tận dụng sức mạnh của Power BI để phân tích dữ liệu từ cơ sở dữ liệu AdventureWorks, một cơ sở dữ liệu mẫu giàu thông tin, nhằm mục đích khám phá các insight giá trị về hiệu suất bán hàng và hành vi khách hàng trong giai đoạn từ 2011 đến 2014.
+Trong thị trường kinh doanh cạnh tranh ngày nay, việc thấu hiểu hành vi khách hàng và xu hướng bán hàng là rất quan trọng để đưa ra các quyết định chiến lược hiệu quả. Dự án này sử dụng Power BI để phân tích dữ liệu từ cơ sở dữ liệu AdventureWorks, một cơ sở dữ liệu mẫu nhằm mục đích khám phá các insight giá trị về hiệu suất bán hàng và hành vi khách hàng trong giai đoạn từ 2011 đến 2014.
 
 **Giải pháp:**
 
